@@ -2,3 +2,7 @@
 node_modules
 !.github/actions/**/node_modules
 venv/
+ImpData.txt
+ImpLinks.txt
+new 17.txt
+
